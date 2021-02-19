@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## My Handles
  [<img src="https://img.shields.io/badge/Mahir Shahriyar-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sezan/)
  [<img src="https://img.shields.io/badge/MahirSez-151515?style=for-the-badge&logo=github&logoColor=79740e">](https://profile-summary-for-github.com/user/MahirSez) 
- [<img src="https://img.shields.io/badge/Rogue33-151515?style=for-the-badge&logo=codeforces&logoColor=79740e">](https://codeforces.com/profile/Rogue33) 
+ [<img src="https://img.shields.io/badge/Rogue33-151515?style=for-the-badge&logo=codeforces">](https://codeforces.com/profile/Rogue33) 
