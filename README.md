@@ -21,7 +21,3 @@ Here are some ideas to get you started:
  [<img src="https://img.shields.io/badge/Rogue33-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Rogue33) 
  [<img src="https://img.shields.io/badge/Rogue33-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://atcoder.jp/users/Rogue33) 
  [<img src="https://img.shields.io/badge/rogue_33-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/rogue_33) 
-
-![Profile views](https://gpvc.arturio.dev/MahirSez)
-
-![](https://komarev.com/ghpvc/?username=MahirSez)
